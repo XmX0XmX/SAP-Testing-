@@ -1,0 +1,1 @@
+gobuster dir -u https://devproservices.zalaris.com -w /usr/share/seclists/Discovery/DNS/bitquark-subdomains-top100000.txt  -k -b 302 -t 5 -o /home/sz99/tools/wordlistCheck/itquark-subdomains-top100000.txt 
