@@ -1,1 +1,12 @@
 gobuster dir -u https://devproservices.zalaris.com -w /usr/share/seclists/Discovery/DNS/bitquark-subdomains-top100000.txt  -k -b 302 -t 5 -o /home/sz99/tools/wordlistCheck/itquark-subdomains-top100000.txt 
+
+
+/usr/share/seclists/Discovery/Variables/secret-keywords.txt
+/usr/share/seclists/Discovery/Web-Content/AdobeCQ-AEM.txt
+/usr/share/seclists/Discovery/Web-Content/AdobeXML.fuzz.txt
+/usr/share/seclists/Discovery/Web-Content/Apache.fuzz.txt
+/usr/share/seclists/Discovery/Web-Content/ApacheTomcat.fuzz.txt
+/usr/share/seclists/Discovery/Web-Content/CGI-HTTP-POST-Windows.fuzz.txt
+/usr/share/seclists/Discovery/Web-Content/CGI-HTTP-POST.fuzz.txt
+/usr/share/seclists/Discovery/Web-Content/CGI-Microsoft.fuzz.txt
+/usr/share/seclists/Discovery/Web-Content/CGI-XPlatform.fuzz.txt
